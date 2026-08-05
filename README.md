@@ -1,26 +1,24 @@
 # Intro Cyber bot
 
- CyHelp!
+ CyHelp is a beginner Python chatbot that introduces users to the pillars of the CIA triad and cybersecurity principles.
 
-### Project Requirements
-Your project should:
-- Create print statements using string concatenation.
-- Use input() and escape keys to format text for readability.
-- Use variables to store user input.
-- Use typecast to print integers and strings together.
-- Use conditional statements to display responses based on user input.
-- Use a while-loop to repeatedly ask a question.
-- Use a break statement to end the while-loop when the user types in "none".
-- Define and describe Cybersecurity, the CIA Triad, and its principles.
+### This Project Covers
+- The CIA triad
+    Confidentiality
+    Integrity
+    Availability
+- The history of cybersecurity
+ ## How It Was Created
+ This guided project was completed through the Girls Who Code program using starter code and follow-along lessons.
 
-## Skills Practices
+
+## Skills Practiced
 - Python
 - User input
 - Conditional statements
 - While loops
 - Cybersecurity fundamentals
-  
-- Define and describe Cybersecurity, the CIA Triad, and its principles.
+
 
 
 
