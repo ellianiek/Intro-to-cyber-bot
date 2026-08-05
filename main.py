@@ -3,13 +3,13 @@ cybersecurityBirthYear = 1970
 
 #Greets user
 print("Hello! I'm CyHelp.")
-userName = input("Whats your name? \n")
+userName = input("What's your name? \n")
 print("Nice to meet you " +  userName)
 
 #Recounts start of Cybersecurity
 todaysYear = input("What year is it?\n")
 timePassed = int(todaysYear) - cybersecurityBirthYear
-print("WOW!that means it has been " + str(timePassed) + "years since since cybersecurity began!")
+print("WOW!that means it has been " + str(timePassed) + "years since cybersecurity began!")
 
 print("The field of Cybersecurity started in the 1970s when more and more information started being stored on computer systems and networks!")
 input("press enter to continue!\n")
@@ -19,13 +19,13 @@ input("press enter to continue!\n")
 
 
 #Introduces CIA Triad
-print("The CIA Triad is the model used to discuss cybersecurity. CIA stands for (credibility, integrity and availability)")
+print("The CIA Triad is the model used to discuss cybersecurity. CIA stands for (confidentiality, integrity and availability)")
 print("Would you like to learn about the CIA Triad?")
 giveInfo= input("Type 'yes' or 'no'\n")
 
 #Explains pillars of CIA Triad
 while giveInfo.lower() == "yes":               
-    print("What would you like to learn more about? Enter the lowercase letter of the following options: (a) credibility, b) integrity, c) credibility,or d) none")
+    print("What would you like to learn more about? Enter the lowercase letter of the following options: (a) confidentiality, b) integrity, c) availability ,or d) none")
     topic = input()
     
     if topic.lower() == "a":
