@@ -1,4 +1,5 @@
 # Intro Cyber bot
+![Intro Cyber Bot](breach-bot-.jpg)
 
  CyHelp is a beginner Python chatbot that introduces users to the pillars of the CIA triad and cybersecurity principles.
 
